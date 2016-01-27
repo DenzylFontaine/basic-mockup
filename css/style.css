@@ -19,7 +19,7 @@ header {
 	width: 1170px;
 }
 
-main > ol, h2 {
+div + .insructions {
 	border: lightgray;
 	padding: 30px;
 }
