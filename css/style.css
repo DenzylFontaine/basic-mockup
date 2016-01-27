@@ -19,20 +19,20 @@ header {
 	width: 1170px;
 }
 
-div + .insructions {
+div + .instructions {
 	border: lightgray;
 	padding: 30px;
 }
 
 .pull-left{
 	float: left;
-	clear: both;
 	border: lightgray;
 }
 
 
 .clear {
 	clear: both;
+	padding-left: 20px;
 }
 
 /***
