@@ -10,10 +10,13 @@ body {
 	margin: 0;
 }
 
+header {
+	background: lightblue;
+}
+
 .container {
 	margin: 0 auto;
 	width: 1170px;
-	background: lightblue;
 }
 
 .instructions {
