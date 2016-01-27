@@ -13,7 +13,18 @@ body {
 .container {
 	margin: 0 auto;
 	width: 1170px;
+	background: lightblue;
 }
+
+.instructions {
+	border: lightgray;
+	padding: 30px;
+}
+
+.pull-left{
+	float: left;
+}
+
 
 .clear {
 	clear: both;
