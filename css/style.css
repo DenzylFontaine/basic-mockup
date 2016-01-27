@@ -32,9 +32,13 @@ main > div {
 
 .clear {
 	clear: both;
-	padding-left: 20px;
+	background: lightblue;
 }
 
+.pull-right {
+	float: right;
+	border: white;
+}
 /***
 * Flexbox Sticky Footer
 * Pushes footer to the bottom. Always.
