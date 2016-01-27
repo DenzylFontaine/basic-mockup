@@ -19,7 +19,7 @@ header {
 	width: 1170px;
 }
 
-div > ol{
+main > ol, h2 {
 	border: lightgray;
 	padding: 30px;
 }
