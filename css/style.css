@@ -8,10 +8,12 @@
 html,
 body {
 	margin: 0;
+	width: 1170px;
 }
 
 header {
 	background: lightblue;
+	margin: 0;
 }
 
 .container {
@@ -19,7 +21,7 @@ header {
 	width: 1170px;
 }
 
-main > div {
+main > ol {
 	border: lightgray 5px;
 	padding: 30px;
 }
@@ -52,7 +54,7 @@ html { display: flex;}
 body { width: 100%;}
 
 footer {
-	margin: 0%;
+	margin: 0;
 	background: black;
 	color: white;
 }
