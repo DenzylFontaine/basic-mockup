@@ -19,7 +19,7 @@ header {
 	width: 1170px;
 }
 
-div + .instructions {
+.instructions {
 	border: lightgray;
 	padding: 30px;
 }
