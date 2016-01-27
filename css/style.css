@@ -51,6 +51,12 @@ main > div {
 html { display: flex;}
 body { width: 100%;}
 
+footer {
+	margin: 0%;
+	background: black;
+	color: white;
+}
+
 .sfooter {
 	display: flex;
 	flex-direction: column;
