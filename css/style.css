@@ -13,12 +13,11 @@ body {
 
 header {
 	background: lightblue;
-	margin: 0;
 }
 
 .container {
 	margin: 0 auto;
-	width: 1170px;
+	width: 0;
 }
 
 main > ol {
