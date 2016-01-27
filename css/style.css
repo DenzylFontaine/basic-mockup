@@ -20,13 +20,13 @@ header {
 }
 
 main > div {
-	border: lightgray;
+	border: lightgray 5px;
 	padding: 30px;
 }
 
 .pull-left{
 	float: left;
-	border: lightgray;
+	border: lightgray 5px;
 }
 
 
@@ -37,7 +37,7 @@ main > div {
 
 .pull-right {
 	float: right;
-	border: white;
+	border: white 5px;
 }
 /***
 * Flexbox Sticky Footer
