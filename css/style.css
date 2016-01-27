@@ -27,7 +27,8 @@ main > ol {
 
 .pull-left{
 	float: left;
-	border: lightgray 5px;
+	border: 5px;
+	border-color: lightgrey;
 }
 
 
