@@ -19,13 +19,14 @@ header {
 	width: 1170px;
 }
 
-.instructions {
+div > ol{
 	border: lightgray;
 	padding: 30px;
 }
 
 .pull-left{
 	float: left;
+	clear: both;
 }
 
 
