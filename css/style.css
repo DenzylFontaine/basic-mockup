@@ -20,15 +20,14 @@ header {
 	width: 1170px;
 }
 
-main > ol {
+.instructions {
 	border: lightgray 5px;
 	padding: 30px;
 }
 
 .pull-left{
 	float: left;
-	border: 5px;
-	border-color: lightgrey;
+	border: 5px lightgrey;
 }
 
 
