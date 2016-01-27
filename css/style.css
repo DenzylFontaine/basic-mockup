@@ -38,8 +38,8 @@ header {
 
 .pull-right {
 	float: right;
+	padding:20px;
 	border: 5px solid white;
-	padding-left: 20px;
 }
 /***
 * Flexbox Sticky Footer
