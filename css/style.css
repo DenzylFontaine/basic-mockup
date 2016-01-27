@@ -27,6 +27,7 @@ div + .insructions {
 .pull-left{
 	float: left;
 	clear: both;
+	border: lightgray;
 }
 
 
